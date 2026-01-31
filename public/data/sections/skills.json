@@ -1,0 +1,581 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Skills",
+                "title_short_nav": "Skills",
+                "title_long_prefix": "Explore",
+                "title_long": "My {{Skill Set}}"
+            },
+            "es": {
+                "title_short": "Habilidades",
+                "title_short_nav": "Habilidades",
+                "title_long_prefix": "Explora",
+                "title_long": "Mis {{Habilidades}}"
+            },
+            "fr": {
+                "title_short": "Capacités",
+                "title_short_nav": "Capacités",
+                "title_long_prefix": "Explorez",
+                "title_long": "Mes {{Compétences}}"
+            },
+            "ko": {
+                "title_short": "스킬",
+                "title_short_nav": "스킬",
+                "title_long_prefix": "이것은 내",
+                "title_long": "{{스킬}}입니다"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleCards",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-table-columns",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{UI/UX}} Design",
+                            "text": "I design clean, intuitive, and user-focused interfaces."
+                        },
+                        "es": {
+                            "title": "Diseño {{UI/UX}}",
+                            "text": "Diseño interfaces limpias, intuitivas y centradas en el usuario."
+                        },
+                        "fr": {
+                            "title": "Design {{UI/UX}}",
+                            "text": "Je conçois des interfaces claires, intuitives et centrées sur l’utilisateur."
+                        },
+                        "ko": {
+                            "title": "{{UI/UX}} 디자인",
+                            "text": "사용자 중심의 직관적이고 깔끔한 인터페이스를 디자인합니다."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-mobile-screen-button",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Responsive}} Design",
+                            "text": "I build layouts that look great on all devices and screen sizes."
+                        },
+                        "es": {
+                            "title": "Diseño {{Responsivo}}",
+                            "text": "Construyo diseños que se ven perfectos en cualquier dispositivo."
+                        },
+                        "fr": {
+                            "title": "Design {{Responsive}}",
+                            "text": "Je crée des interfaces adaptées à tous les écrans."
+                        },
+                        "ko": {
+                            "title": "{{반응형}} 디자인",
+                            "text": "모든 기기와 화면 크기에 최적화된 레이아웃을 제작합니다."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Frontend}} Development",
+                            "text": "I build fast, scalable, and maintainable frontend applications."
+                        },
+                        "es": {
+                            "title": "Desarrollo {{Frontend}}",
+                            "text": "Desarrollo aplicaciones frontend rápidas y escalables."
+                        },
+                        "fr": {
+                            "title": "Développement {{Frontend}}",
+                            "text": "Je développe des applications frontend rapides et maintenables."
+                        },
+                        "ko": {
+                            "title": "{{프론트엔드}} 개발",
+                            "text": "빠르고 확장 가능한 프론트엔드 애플리케이션을 구축합니다."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Performance}} Optimization",
+                            "text": "I optimize websites for speed, performance, and smooth user experience."
+                        },
+                        "es": {
+                            "title": "Optimización de {{Rendimiento}}",
+                            "text": "Optimizo sitios web para velocidad y mejor experiencia de usuario."
+                        },
+                        "fr": {
+                            "title": "Optimisation des {{Performances}}",
+                            "text": "J’optimise les sites pour des performances et une fluidité maximales."
+                        },
+                        "ko": {
+                            "title": "{{성능}} 최적화",
+                            "text": "속도와 사용자 경험을 위해 웹사이트 성능을 최적화합니다."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-universal-access",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "link": {
+                        "href": "",
+                        "tooltipString": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Accessibility}}",
+                            "text": "I build inclusive interfaces following web accessibility standards."
+                        },
+                        "es": {
+                            "title": "{{Accesibilidad}} Web",
+                            "text": "Creo interfaces inclusivas siguiendo estándares de accesibilidad."
+                        },
+                        "fr": {
+                            "title": "{{Accessibilité}} Web",
+                            "text": "Je développe des interfaces inclusives et accessibles."
+                        },
+                        "ko": {
+                            "title": "{{접근성}}",
+                            "text": "웹 접근성 표준을 준수한 포용적인 인터페이스를 만듭니다."
+                        }
+                    }
+                }
+            ]
+        },
+       
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Frontend Stack"
+                },
+                "es": {
+                    "title": "Stack de Frontend"
+                },
+                "fr": {
+                    "title": "Stack Frontend"
+                },
+                "zh": {
+                    "title": "前端技术栈"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 3,
+                "max_rows_collapse_threshold": 6,
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "round_icons": false
+            },
+            "items": [
+                  {
+      "id": 1,
+      "img": "",
+      "faIcon": "fa-brands fa-react",
+      "faIconColors": { "bg": "", "fill": "#61DAFB" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "React.js",
+          "text": "Advanced experience building scalable and performant React applications.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "img": "images/pictures/nextjs.png",
+      "faIcon": "",
+      "faIconColors": { "bg": "", "fill": "" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Next.js",
+          "text": "Expertise in Next.js for SSR, SSG, and optimized web applications.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "img": "",
+      "faIcon": "fa-brands fa-angular",
+      "faIconColors": { "bg": "", "fill": "#DD0031" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Angular",
+          "text": "Strong experience building enterprise-level applications with Angular.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "img": "",
+      "faIcon": "fa-brands fa-js",
+      "faIconColors": { "bg": "", "fill": "#F7DF1E" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "JavaScript (ES6+)",
+          "text": "Deep understanding of modern JavaScript for robust web applications.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "img": "",
+      "faIcon": "fa-brands fa-js",
+      "faIconColors": { "bg": "", "fill": "#3178C6" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "TypeScript",
+          "text": "Extensive use of TypeScript for type-safe and maintainable codebases.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "img": "",
+      "faIcon": "fa-brands fa-html5",
+      "faIconColors": { "bg": "", "fill": "#E34F26" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "HTML5",
+          "text": "Expert in semantic HTML5 and accessible markup.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "img": "",
+      "faIcon": "fa-brands fa-css3-alt",
+      "faIconColors": { "bg": "", "fill": "#1572B6" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "CSS3",
+          "text": "Advanced CSS3 skills for responsive and modern UI design.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "img": "",
+      "faIcon": "fa-brands fa-figma",
+      "faIconColors": { "bg": "", "fill": "#F24E1E" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Figma",
+          "text": "Strong UI/UX design skills using Figma for prototyping and collaboration.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "img": "images/pictures/adobe-xd.png",
+      "faIcon": "",
+      "faIconColors": { "bg": "", "fill": "#FF61F6" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Adobe XD",
+          "text": "Experience designing user-centered interfaces with Adobe XD.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "img": "images/pictures/tailwind-css.png",
+      "faIcon": "",
+      "faIconColors": { "bg": "", "fill": "" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Tailwind CSS",
+          "text": "Expertise in utility-first styling using Tailwind CSS.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "img": "",
+      "faIcon": "fa-brands fa-bootstrap",
+      "image":"",
+      "faIconColors": { "bg": "", "fill": "#7952B3" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Bootstrap",
+          "text": "Advanced usage of Bootstrap for responsive UI development.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "img": "images/pictures/material-ui.png",
+      "faIcon": "",
+      "faIconColors": { "bg": "", "fill": "#0081CB" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Material UI",
+          "text": "Strong experience building React applications with Material UI.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "img": "",
+      "faIcon": "fa-solid fa-diagram-project",
+      "faIconColors": { "bg": "", "fill": "#764ABC" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Redux Toolkit & Zustand",
+          "text": "Advanced state management using Redux Toolkit and Zustand.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "img": "",
+      "faIcon": "fa-solid fa-route",
+      "faIconColors": { "bg": "", "fill": "#CA4245" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "React Router v7",
+          "text": "Expert routing and navigation handling in React applications.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "img": "",
+      "faIcon": "fa-solid fa-vial",
+      "faIconColors": { "bg": "", "fill": "#C21325" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Jest & Vitest",
+          "text": "Extensive unit and integration testing experience.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "img": "",
+      "faIcon": "fa-brands fa-aws",
+      "faIconColors": { "bg": "", "fill": "#FF9900" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "AWS S3",
+          "text": "Experience deploying and managing assets using AWS S3.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "img": "",
+      "faIcon": "fa-solid fa-network-wired",
+      "faIconColors": { "bg": "", "fill": "#4CAF50" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "REST APIs & GraphQL",
+          "text": "Strong experience integrating RESTful APIs and GraphQL services.",
+          "level": "Jnr"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "img": "",
+      "faIcon": "fa-solid fa-people-group",
+      "faIconColors": { "bg": "", "fill": "#0052CC" },
+      "date": { "year": 2022, "month": 1 },
+      "percentage": 100,
+      "locales": {
+        "en": {
+          "title": "Scrum & Agile",
+          "text": "Hands-on experience with Scrum, sprint planning, Jira, and code reviews.",
+          "level": "Jnr"
+        }
+      }
+    }
+
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "zh": {
+                    "title": "语言"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 1,
+                "max_rows_collapse_threshold": 4,
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": true
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/flags/en-us.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "date": {
+                        "year": null,
+                        "month": null
+                    },
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "text": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+                            "level": "Nativo"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
+                            "level": "Natif"
+                        },
+                        "ko": {
+                            "title": "영어",
+                            "text": "탁월한 의사소통 및 작문 능력을 갖춘 원어민.",
+                            "level": "원어민"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

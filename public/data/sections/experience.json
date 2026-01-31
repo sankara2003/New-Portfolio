@@ -1,0 +1,173 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Laboral}}"
+            },
+            "fr": {
+                "title_short": "Expérience",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "Résumé de mon",
+                "title_long": "Parcours {{Professionel}}"
+            },
+            "ko": {
+                "title_short": "경험",
+                "title_short_nav": "경험",
+                "title_long_prefix": "이것은 내",
+                "title_long": "{{직업적}} 경험"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 4,
+                    "img": "images/pictures/zigma.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 10
+                    },
+                    "dateEnd": {
+                        "now": true
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Frontend}} Developer",
+                            "province": "Tamil Nadu",
+                            "country": "Chennai - IN",
+                            "institution": "The Zigma Technologies",
+                            "text": "Results-driven Frontend Developer with 2.4 years of experience building scalable, production-grade web applications using modern JavaScript frameworks. Strong focus on:",
+                            "list": [
+                                "Building reusable UI components and Single Page Applications (SPA)",
+                                "Developing responsive and accessible web interfaces (WCAG, ARIA)",
+                                "Integrating REST and GraphQL APIs with error handling and retry logic",
+                                "Performance optimization using code splitting and lazy loading",
+                                "Working within Agile/Scrum environments for enterprise-level systems"
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "TypeScript",
+                                "React",
+                                "Next.js",
+                                "Angular",
+                                "Redux Toolkit",
+                                "Zustand",
+                                "REST APIs",
+                                "GraphQL",
+                                "Microservices",
+                                "AWS S3",
+                                "Docker"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador {{Frontend}}",
+                            "province": "Tamil Nadu",
+                            "country": "Chennai - IN",
+                            "institution": "The Zigma Technologies",
+                            "text": "Desarrollador Frontend orientado a resultados con 2.4 años de experiencia en la creación de aplicaciones web escalables y listas para producción, con enfoque en:",
+                            "list": [
+                                "Creación de componentes UI reutilizables y aplicaciones SPA",
+                                "Desarrollo de interfaces web responsivas y accesibles",
+                                "Integración de APIs REST y GraphQL con manejo de errores",
+                                "Optimización del rendimiento mediante code splitting y lazy loading",
+                                "Trabajo en entornos Agile/Scrum para sistemas empresariales"
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "TypeScript",
+                                "React",
+                                "Next.js",
+                                "Angular",
+                                "Redux Toolkit",
+                                "Zustand",
+                                "REST APIs",
+                                "GraphQL",
+                                "Microservices",
+                                "AWS S3",
+                                "Docker"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur {{Frontend}}",
+                            "province": "Tamil Nadu",
+                            "country": "Chennai - IN",
+                            "institution": "The Zigma Technologies",
+                            "text": "Développeur Frontend orienté résultats avec 2.4 ans d’expérience dans la création d’applications web évolutives et prêtes pour la production, avec un focus sur :",
+                            "list": [
+                                "Création de composants UI réutilisables et d’applications SPA",
+                                "Développement d’interfaces web responsives et accessibles",
+                                "Intégration d’API REST et GraphQL avec gestion des erreurs",
+                                "Optimisation des performances via le code splitting et le lazy loading",
+                                "Travail en environnement Agile/Scrum pour des systèmes d’entreprise"
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "TypeScript",
+                                "React",
+                                "Next.js",
+                                "Angular",
+                                "Redux Toolkit",
+                                "Zustand",
+                                "REST APIs",
+                                "GraphQL",
+                                "Microservices",
+                                "AWS S3",
+                                "Docker"
+                            ]
+                        },
+                        "ko": {
+                            "title": "{{프론트엔드}} 개발자",
+                            "province": "타밀나두",
+                            "country": "첸나이 - 인도",
+                            "institution": "The Zigma Technologies",
+                            "text": "2.4년의 경력을 보유한 성과 중심의 프론트엔드 개발자로, 확장 가능하고 실제 서비스 환경에 적합한 웹 애플리케이션을 개발하며 다음에 중점을 둡니다:",
+                            "list": [
+                                "재사용 가능한 UI 컴포넌트 및 SPA 개발",
+                                "반응형 및 접근성 높은 웹 인터페이스 구축",
+                                "REST 및 GraphQL API 연동과 오류 처리",
+                                "코드 스플리팅과 지연 로딩을 통한 성능 최적화",
+                                "엔터프라이즈 시스템을 위한 Agile/Scrum 환경에서의 협업"
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "TypeScript",
+                                "React",
+                                "Next.js",
+                                "Angular",
+                                "Redux Toolkit",
+                                "Zustand",
+                                "REST APIs",
+                                "GraphQL",
+                                "Microservices",
+                                "AWS S3",
+                                "Docker"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
